@@ -4,19 +4,13 @@
 <a href="https://github.com/oLeonardo-R" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/leonardo-rrodrigues" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/leonardo-rrodrigues" target="_blank">
+<a href="https://www.facebook.com/leo.guui/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/leonardo-rrodrigues" target="_blank">
+<a href="https://www.instagram.com/leo_guui/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
@@ -24,7 +18,7 @@
 
 
 ### Legal te ver por aqui! Vamos explorar o universo da tecnologia!  🌐  
-Leonardo, aqui! Sou um entusiasta da tecnologia e estou mergulhando de cabeça na área de front-end. Minha jornada na programação começou na Kick, onde estou aprendendo os fundamentos e me preparando para ser um profissional de destaque nesse campo. Sou apaixonado por criar interfaces intuitivas e responsivas, e estou sempre em busca de novos desafios para aprimorar minhas habilidades. Acredito que a combinação de criatividade e conhecimento técnico é essencial para o sucesso no desenvolvimento de aplicações web, e estou determinado a me destacar nesse cenário cada vez mais competitivo.   
+Leonardo, aqui! Sou um entusiasta da tecnologia e estou mergulhando de cabeça na área de front-end. Minha jornada na programação começou na faculdade de Ciências da Computação, onde adquiri os primeiros conhecimentos e despertei meu interesse por desenvolvimento de software. Posteriormente, ingressei na Kick para aprofundar meus estudos e me preparar para ser um profissional de destaque nesse campo. Sou apaixonado por criar interfaces intuitivas e responsivas, e estou sempre em busca de novos desafios para aprimorar minhas habilidades. Acredito que a combinação de criatividade e conhecimento técnico é essencial para o sucesso no desenvolvimento de aplicações web, e estou determinado a me destacar nesse cenário cada vez mais competitivo  
   
 
 <br/>  
@@ -76,8 +70,9 @@ Leonardo, aqui! Sou um entusiasta da tecnologia e estou mergulhando de cabeça n
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oLeonardo-R&hide_border=true&layout=compact" align="center" /></div>  
 
+<br/>  
 </td></tr></table>  
 
 <br/>  
