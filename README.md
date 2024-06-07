@@ -36,7 +36,7 @@ Leonardo, aqui! Sou um entusiasta da tecnologia e estou mergulhando de cabeça n
 - ❗ Quero dominar JavaScript no futuro. Parece ser essencial para o desenvolvimento web e de aplicativos.  
   
 
-- Café ☕ 💚!   
+- Amo Café ☕ 💚!   
 
 
 </td><td valign="top" width="50%">
